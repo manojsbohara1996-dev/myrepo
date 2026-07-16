@@ -1,0 +1,7 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+body{height:100vh;display:flex;justify-content:center;align-items:center;
+background:linear-gradient(90deg,#6d28d9,#9333ea,#5b21b6,#67e8f9);
+font-family:Arial,sans-serif;}
+.container{text-align:center;color:#fff;}
+h1{font-size:48px;margin-bottom:15px;}
+p{font-size:24px;}
